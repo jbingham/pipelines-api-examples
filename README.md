@@ -18,8 +18,8 @@ or thousands of files.
 
 Tab test:
 
-    This  is  a tabby sentence.
-    And here's  another one.
+    This&#9;is&#9;a&#9;tabby&#9;sentence.
+    And&#9;here's&#9;another&#9;one.
 
 The typical flow for a pipeline is:
 
