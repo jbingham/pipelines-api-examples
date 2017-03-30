@@ -18,8 +18,10 @@ or thousands of files.
 
 Tab test:
 
+<pre>
     This&#9;is&#9;a&#9;tabby&#9;sentence.
     And&#9;here's&#9;another&#9;one.
+</pre>
 
 The typical flow for a pipeline is:
 
